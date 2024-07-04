@@ -13,6 +13,7 @@ public class Ex4 {
 	public static void main(String[] args) {
 
 		printHello(5); // 함수 호출
+		// 함수이름(인자);
 
 	}
 
