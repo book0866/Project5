@@ -42,7 +42,7 @@ class Person {
 	
 	// 이름을 받아서 초기화하는 생성자
 	public Person(String nm) {
-	name = nm;
+		name = nm;
 	}
 	
 	// 이름, 키, 몸무게를 받아서 초기화하는 생성자
