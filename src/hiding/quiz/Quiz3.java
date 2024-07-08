@@ -37,7 +37,6 @@ class MyDate {
 				
 			}
 
-		
 		this.month = month;
 	}
 	
@@ -66,3 +65,5 @@ class MyDate {
 	}
 	
 }
+
+
